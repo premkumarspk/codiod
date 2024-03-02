@@ -288,16 +288,11 @@ header nav ul li:hover ul {
     padding: 10px;
     display: flex;
     flex-wrap: wrap;
-  
     justify-content: space-around;
 
 }
 
-.slider img:hover {
-    transition: ease-in .5s;
-    width: 280px;
-    height:280pxs;
-}
+
 
 /* footer */
 footer{
